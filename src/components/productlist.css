@@ -1,0 +1,11 @@
+.nums {
+    border: 2px solid rgb(16, 53, 167);
+    width:fit-content;
+    padding: 5rem;
+    background-color: royalblue;
+    color: white;
+    border-radius: 10px;
+}
+.mybtn{
+    background-color: cadetblue;
+}
